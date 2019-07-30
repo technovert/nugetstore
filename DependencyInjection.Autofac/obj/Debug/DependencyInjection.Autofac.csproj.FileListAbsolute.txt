@@ -1,0 +1,10 @@
+C:\Users\Ranadheer\source\repos\DependencyInjection.Autofac\DependencyInjection.Autofac\bin\Debug\DependencyInjection.Autofac.dll
+C:\Users\Ranadheer\source\repos\DependencyInjection.Autofac\DependencyInjection.Autofac\bin\Debug\DependencyInjection.Autofac.pdb
+C:\Users\Ranadheer\source\repos\DependencyInjection.Autofac\DependencyInjection.Autofac\bin\Debug\Autofac.dll
+C:\Users\Ranadheer\source\repos\DependencyInjection.Autofac\DependencyInjection.Autofac\bin\Debug\Autofac.pdb
+C:\Users\Ranadheer\source\repos\DependencyInjection.Autofac\DependencyInjection.Autofac\bin\Debug\Autofac.xml
+C:\Users\Ranadheer\source\repos\DependencyInjection.Autofac\DependencyInjection.Autofac\obj\Debug\DependencyInjection.Autofac.csprojAssemblyReference.cache
+C:\Users\Ranadheer\source\repos\DependencyInjection.Autofac\DependencyInjection.Autofac\obj\Debug\DependencyInjection.Autofac.csproj.CoreCompileInputs.cache
+C:\Users\Ranadheer\source\repos\DependencyInjection.Autofac\DependencyInjection.Autofac\obj\Debug\DependencyInjection.Autofac.csproj.CopyComplete
+C:\Users\Ranadheer\source\repos\DependencyInjection.Autofac\DependencyInjection.Autofac\obj\Debug\DependencyInjection.Autofac.dll
+C:\Users\Ranadheer\source\repos\DependencyInjection.Autofac\DependencyInjection.Autofac\obj\Debug\DependencyInjection.Autofac.pdb

@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>DI.Autofac</id>
+    <version>1.0.0.5</version>
+    <title>Dependency Injection with Autofac</title>
+    <authors>Ranadheer</authors>
+    <owners>Technovert</owners>
+    <licenseUrl>http://LICENSE_URL_HERE_OR_DELETE_THIS_LINE</licenseUrl>
+    <projectUrl>http://PROJECT_URL_HERE_OR_DELETE_THIS_LINE</projectUrl>
+    <iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This package will hide all the hard implementation by autofac and provides you the easy methods to use autofac</description>
+    <releaseNotes>This is the initial release</releaseNotes>
+    <copyright>Copyright 2019 @Technovert</copyright>
+    <tags>autofac, dependency injection, ioc, inversion of control</tags>
+	<dependencies>
+      <dependency id="Autofac.Mvc5" version="4.0.2" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="readme.txt" />
+    <file src="bin\Release\DependencyInjection.AutofacHelper.dll" target="lib\net46\DependencyInjection.AutofacHelper.dll" />
+	    <file src="bin\Release\DependencyInjection.AutofacHelper.pdb" target="lib\net46\DependencyInjection.AutofacHelper.pdb" />
+    <file src="content\*.cs*" target="content" />
+</files>
+</package>
