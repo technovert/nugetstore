@@ -37,16 +37,6 @@ namespace DependencyInjection.AutofacHelper
 
         public static void RegisterKeyed<T1, T2>(object key, Lifetime? lifetime = null) where T1 : Type where T2 : Type => AddLifetime(Builder.RegisterType<T1>().Keyed<T2>(key), lifetime);
 
-        public static void Register<T>(Func<T1, T2, T3> _delegate, Lifetime? lifetime) where T1 : Type where T2 : Type where T3 : Type
-        {
-            Builder.Register<T>((c, p) =>
-            {
-                var factory = c.Resolve<ServiceBus.AzureServiceBusPublisherFactory>();
-                return new AppCrest.Web.Infrastructure.InternalCommandPublisher(c.Resolve<AppCrest.Model.RequestContext>(), factory.Get("appcrestinternal"));
-            });
-            AddLifetime(Builder.Register<T>(_delegate), lifetime);
-        }
-
         private static void AddLifetime<Type>(IRegistrationBuilder<Type, ConcreteReflectionActivatorData, SingleRegistrationStyle> registration, Lifetime? lifetime)
         {
             switch (lifetime)
