@@ -57,3 +57,5 @@ packages/Microsoft.AspNet.WebPages.3.1.0/Microsoft.AspNet.WebPages.3.1.0.nupkg
 packages/Microsoft.Web.Infrastructure.1.0.0.0/.signature.p7s
 packages/Microsoft.Web.Infrastructure.1.0.0.0/lib/net40/Microsoft.Web.Infrastructure.dll
 packages/Microsoft.Web.Infrastructure.1.0.0.0/Microsoft.Web.Infrastructure.1.0.0.0.nupkg
+packages/*
+.vs/NugetStore/v15/*
