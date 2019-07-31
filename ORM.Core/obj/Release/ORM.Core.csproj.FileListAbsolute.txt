@@ -1,0 +1,6 @@
+C:\PROJ\Nuget Store\nugetstore\ORM.Core\obj\Release\ORM.Core.csprojAssemblyReference.cache
+C:\PROJ\Nuget Store\nugetstore\ORM.Core\obj\Release\ORM.Core.csproj.CoreCompileInputs.cache
+C:\PROJ\Nuget Store\nugetstore\ORM.Core\bin\Release\ORM.Core.dll
+C:\PROJ\Nuget Store\nugetstore\ORM.Core\bin\Release\ORM.Core.pdb
+C:\PROJ\Nuget Store\nugetstore\ORM.Core\obj\Release\ORM.Core.dll
+C:\PROJ\Nuget Store\nugetstore\ORM.Core\obj\Release\ORM.Core.pdb

@@ -1,0 +1,9 @@
+C:\PROJ\Nuget Store\nugetstore\ORM.PetaPoco\bin\Debug\ORM.PetaPoco.dll
+C:\PROJ\Nuget Store\nugetstore\ORM.PetaPoco\bin\Debug\ORM.PetaPoco.pdb
+C:\PROJ\Nuget Store\nugetstore\ORM.PetaPoco\bin\Debug\ORM.Core.dll
+C:\PROJ\Nuget Store\nugetstore\ORM.PetaPoco\bin\Debug\ORM.Core.pdb
+C:\PROJ\Nuget Store\nugetstore\ORM.PetaPoco\obj\Debug\ORM.PetaPoco.csprojAssemblyReference.cache
+C:\PROJ\Nuget Store\nugetstore\ORM.PetaPoco\obj\Debug\ORM.PetaPoco.csproj.CoreCompileInputs.cache
+C:\PROJ\Nuget Store\nugetstore\ORM.PetaPoco\obj\Debug\ORM.PetaPoco.csproj.CopyComplete
+C:\PROJ\Nuget Store\nugetstore\ORM.PetaPoco\obj\Debug\ORM.PetaPoco.dll
+C:\PROJ\Nuget Store\nugetstore\ORM.PetaPoco\obj\Debug\ORM.PetaPoco.pdb

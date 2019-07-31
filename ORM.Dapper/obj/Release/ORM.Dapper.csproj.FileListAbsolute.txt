@@ -1,0 +1,11 @@
+C:\PROJ\Nuget Store\nugetstore\ORM.Dapper\obj\Release\ORM.Dapper.csprojAssemblyReference.cache
+C:\PROJ\Nuget Store\nugetstore\ORM.Dapper\obj\Release\ORM.Dapper.csproj.CoreCompileInputs.cache
+C:\PROJ\Nuget Store\nugetstore\ORM.Dapper\bin\Release\ORM.Dapper.dll
+C:\PROJ\Nuget Store\nugetstore\ORM.Dapper\bin\Release\ORM.Dapper.pdb
+C:\PROJ\Nuget Store\nugetstore\ORM.Dapper\bin\Release\Dapper.dll
+C:\PROJ\Nuget Store\nugetstore\ORM.Dapper\bin\Release\ORM.Core.dll
+C:\PROJ\Nuget Store\nugetstore\ORM.Dapper\bin\Release\ORM.Core.pdb
+C:\PROJ\Nuget Store\nugetstore\ORM.Dapper\bin\Release\Dapper.xml
+C:\PROJ\Nuget Store\nugetstore\ORM.Dapper\obj\Release\ORM.Dapper.csproj.CopyComplete
+C:\PROJ\Nuget Store\nugetstore\ORM.Dapper\obj\Release\ORM.Dapper.dll
+C:\PROJ\Nuget Store\nugetstore\ORM.Dapper\obj\Release\ORM.Dapper.pdb

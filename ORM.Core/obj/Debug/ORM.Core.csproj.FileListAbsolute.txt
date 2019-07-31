@@ -1,0 +1,5 @@
+C:\PROJ\Nuget Store\nugetstore\ORM.Core\bin\Debug\ORM.Core.dll
+C:\PROJ\Nuget Store\nugetstore\ORM.Core\bin\Debug\ORM.Core.pdb
+C:\PROJ\Nuget Store\nugetstore\ORM.Core\obj\Debug\ORM.Core.csproj.CoreCompileInputs.cache
+C:\PROJ\Nuget Store\nugetstore\ORM.Core\obj\Debug\ORM.Core.dll
+C:\PROJ\Nuget Store\nugetstore\ORM.Core\obj\Debug\ORM.Core.pdb

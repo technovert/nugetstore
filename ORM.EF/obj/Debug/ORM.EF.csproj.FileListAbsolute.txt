@@ -1,0 +1,14 @@
+C:\PROJ\Nuget Store\nugetstore\ORM.EF\bin\Debug\ORM.EF.dll.config
+C:\PROJ\Nuget Store\nugetstore\ORM.EF\bin\Debug\ORM.EF.dll
+C:\PROJ\Nuget Store\nugetstore\ORM.EF\bin\Debug\ORM.EF.pdb
+C:\PROJ\Nuget Store\nugetstore\ORM.EF\bin\Debug\EntityFramework.dll
+C:\PROJ\Nuget Store\nugetstore\ORM.EF\bin\Debug\EntityFramework.SqlServer.dll
+C:\PROJ\Nuget Store\nugetstore\ORM.EF\bin\Debug\ORM.Core.dll
+C:\PROJ\Nuget Store\nugetstore\ORM.EF\bin\Debug\ORM.Core.pdb
+C:\PROJ\Nuget Store\nugetstore\ORM.EF\bin\Debug\EntityFramework.xml
+C:\PROJ\Nuget Store\nugetstore\ORM.EF\bin\Debug\EntityFramework.SqlServer.xml
+C:\PROJ\Nuget Store\nugetstore\ORM.EF\obj\Debug\ORM.EF.csprojAssemblyReference.cache
+C:\PROJ\Nuget Store\nugetstore\ORM.EF\obj\Debug\ORM.EF.csproj.CoreCompileInputs.cache
+C:\PROJ\Nuget Store\nugetstore\ORM.EF\obj\Debug\ORM.EF.csproj.CopyComplete
+C:\PROJ\Nuget Store\nugetstore\ORM.EF\obj\Debug\ORM.EF.dll
+C:\PROJ\Nuget Store\nugetstore\ORM.EF\obj\Debug\ORM.EF.pdb
